@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://visitor-badge.glitch.me/badge?page_id=Rupert-WLLP-Bai.readme)
+![info](https://github-readme-stats.vercel.app/api?username=Rupert-WLLP-Bai&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
