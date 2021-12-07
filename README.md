@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **JavaWeb**
 
-- 👯 I’m looking to collaborate on **Gamejam_2021_Lilith**
+- 👯 I’m looking to collaborate on **Spring5**
 
-- 🤝 I’m looking for help with **Gamejam_2021_Lilith**
+- 🤝 I’m looking for help with **Springboot**
 
 - 💬 Ask me about **Nothing**
 
 - 📫 How to reach me **1762161822@qq.com**
 
-- ⚡ Fun fact **你吹得神**
+- ⚡ Fun fact **Nothing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
