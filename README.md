@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on [data_structure](https://github.com/Rupert-WLLP-Bai/data_structure)
 
-- 🌱 I’m currently learning **JavaWeb**
+- 🌱 I’m currently learning **Golang**
 
-- 👯 I’m looking to collaborate on **Spring5**
+- 👯 I’m looking to collaborate on **Rust**
 
-- 🤝 I’m looking for help with **Springboot**
+- 🤝 I’m looking for help with **SpringBoot**
 
 - 💬 Ask me about **Nothing**
 
-- 📫 How to reach me **1762161822@qq.com**
+- 📫 How to reach me **NorfloxBai20011230@126.com**
 
 - ⚡ Fun fact **Nothing**
 
