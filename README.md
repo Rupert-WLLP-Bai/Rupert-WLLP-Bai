@@ -1,23 +1,21 @@
-<h1 align="center">Hi 👋, I'm 每天坚持摆烂的老白</h1>
-<h3 align="center">No subtitle hhhhh</h3>
+<h1 align="center">Hi 👋, I'm Nofloxaciner Bai</h1>
+<h3 align="center">2001/12/30 Chongqing China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupert-wllp-bai&label=Profile%20views&color=0e75b6&style=flat" alt="rupert-wllp-bai" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupert-wllp-bai" alt="rupert-wllp-bai" /></a> </p>
 
-- 🔭 I’m currently working on [data_structure](https://github.com/Rupert-WLLP-Bai/data_structure)
+- 🔭 I’m currently working on [NestJS](https://github.com/Rupert-WLLP-Bai/SSE2023-NestJS)
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **NestJS**
 
-- 👯 I’m looking to collaborate on **Rust**
+- 👯 I’m looking to collaborate on **NestJS**
 
-- 🤝 I’m looking for help with **SpringBoot**
+- 🤝 I’m looking for help with **NestJS**
 
-- 💬 Ask me about **Nothing**
+- 💬 Ask me about **NodeJS**
 
 - 📫 How to reach me **NorfloxBai20011230@126.com**
-
-- ⚡ Fun fact **Nothing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
