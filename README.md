@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [NestJS](https://github.com/Rupert-WLLP-Bai/SSE2023-NestJS)
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **NestJS**
 
