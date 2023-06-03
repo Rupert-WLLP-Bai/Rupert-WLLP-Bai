@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://rupert-wllp-bai.github.io/](https://rupert-wllp-bai.github.io/)
 
-- 💬 Ask me about **NodeJS,Rust**
+- 💬 Ask me about **NodeJS,Rust,C++**
 
 - 📫 How to reach me **1762161822@qq.com**
 
