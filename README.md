@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupert-wllp-bai" alt="rupert-wllp-bai" /></a> </p>
 
-- 🔭 I’m currently working on [SoftwareTesting2023](https://github.com/Rupert-WLLP-Bai/SoftwareTesting2023)
+- 🔭 I’m currently working on [zkp-2024-graduate](https://github.com/Rupert-WLLP-Bai/zkp-2024-graduate)
 
 - 🌱 I’m currently learning **Rust Course,MIT 6.5840**
 
