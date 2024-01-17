@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Norfloxaciner Bai</h1>
+<h1 align="center">Hi 👋, I'm Junhao Bai</h1>
 <h3 align="center">2001-12-30 Chongqing China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupert-wllp-bai&label=Profile%20views&color=0033ff&style=flat" alt="rupert-wllp-bai" /> </p>
