@@ -67,10 +67,6 @@
   </table>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupert-wllp-bai&theme=default" alt="streak" />
-</p>
-
 ---
 
 ### 📫 Connect with me
